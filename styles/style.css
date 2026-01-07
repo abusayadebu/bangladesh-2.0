@@ -31,6 +31,14 @@
     border: none;
 }
 
+p{
+    color: rgba(14, 14, 14, 0.7);
+}
+h3{
+    font-size: 40px;
+    font-weight: 700;
+}
+
 /* header section styles here */
 header{
     max-width: 1600px;
@@ -64,3 +72,51 @@ nav{
     font-weight: 700;
     margin-bottom: 24px;
 }
+
+/* -----vision section style */
+.vision-section{
+    margin-top: 80px;
+}
+
+.vision-p{
+    margin: 24px 0px;
+}
+
+.card-container{
+    display: flex;
+    gap: 20px;
+}
+
+.card{
+    border-radius: 16px;
+    background: rgba(84, 144, 245, 0.2);
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+.card-btn{
+    width: 122px;
+    border-radius: 8px;
+    background-color: rgba(84, 144, 245, 1);
+    padding: 11px 20px;
+    border: none;
+    color: white;
+}
+
+.card-btn-two{
+    background-color: rgba(9, 161, 92, 1);
+}
+.card-btn-three{
+    background: rgba(255, 194, 57, 1);
+}
+
+
+.card-two{
+    background-color: rgba(198, 228, 214, 1);
+}
+.card-three{
+    background: rgba(247, 235, 207, 1);
+}
+
+/*  */
