@@ -119,4 +119,17 @@ nav{
     background: rgba(247, 235, 207, 1);
 }
 
-/*  */
+/* quote section style */
+.quote-section{
+    margin-top: 32px;
+    padding: 48px 24px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 1);
+
+}
+
+.quote-section h5{
+    margin-top: 12px;
+    margin-bottom: 4px;
+}
