@@ -286,5 +286,32 @@ td button{
 #btn-newsletter{
     border-radius: 0px 8px 8px 0px;
     margin-left: -2px;
-    
+}
+
+/* footer section style */
+footer{
+    max-width: 1600px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 1);
+    padding: 50px 160px;
+}
+
+.footer-div{
+    text-align: center;
+}
+.footer-div h4{
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+h3{
+    color: rgba(14, 14, 14, 0.1);
+}
+.icon-div{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
 }
