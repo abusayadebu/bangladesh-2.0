@@ -41,7 +41,6 @@ p{
 h3{
     font-size: 40px;
     font-weight: 700;
-    color: black;
 }
 
 /* header section styles here */
@@ -306,9 +305,7 @@ footer{
     margin-bottom: 30px;
 }
 
-h3{
-    color: rgba(14, 14, 14, 0.1);
-}
+
 .icon-div{
     display: flex;
     gap: 24px;
