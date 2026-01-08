@@ -46,6 +46,7 @@ h3{
 /* header section styles here */
 header{
     max-width: 1600px;
+    margin: 0 auto;
     background-color: #defff7;
     padding: 24px 160px;
 }
@@ -262,4 +263,28 @@ td button{
     padding: 20px 40px;
     margin: 32px 0px;
     border: none;
+}
+
+/* newsletter section starts here */
+.newsletter-section{
+    margin: 80px auto;
+    padding: 80px 100px;
+    border-radius: 24px;
+    background-color: rgba(198, 228, 214, 1);
+    text-align: center;
+}
+.newsletter-section p{
+    margin: 20px 0px;
+}
+#newsletter-input{
+    width: 80%;
+    padding: 20px 40px;
+    margin: 20px 0px;
+    border: none;
+}
+
+#btn-newsletter{
+    border-radius: 0px 8px 8px 0px;
+    margin-left: -2px;
+    
 }
